@@ -86,7 +86,7 @@ p {
 img {
     witdh: 100px;
   }
-@media(max-width:576px ){
+@media(max-width:745px ){
     h1{
         font-size: 80px;
     }
