@@ -88,10 +88,10 @@ img {
   }
 @media(max-width:745px ){
     h1{
-        font-size: 80px;
+        font-size: 75px;
     }
     h2{
-        font-size: 35px;
+        font-size: 36px;
     }
     h3{
         font-size: 20px;
